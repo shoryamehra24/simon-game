@@ -1,0 +1,76 @@
+
+
+a,h1,h3,button,footer{
+color: #FEF2BF;
+font-family: 'Press Start 2P', cursive;
+
+
+}
+
+body {
+    text-align: center;
+    background-color: #011F3F;
+  }
+
+
+h1{
+font-size: 3rem;
+ margin:  15% 5% 3% 5%;}
+ 
+
+h3{
+font-size: 1.5rem;
+margin:  1.5%;
+}
+
+button{
+    margin-top: 1%;
+    margin: 1.4%;
+}
+
+
+footer{
+    margin-top: 14%;
+}
+
+.meLink:hover{
+    color: #FEF2BF;
+}
+
+.dark{
+    color:  #FEF2BF;
+}
+
+
+
+
+/* Dark mode theme */
+
+body.dark-mode{
+    background-color: black ;
+    color: #39FF14
+ 
+}
+
+body.dark-mode h1{
+    color: chartreuse;
+}
+
+
+body.dark-mode h3{
+    color: chartreuse;
+}
+
+
+body.dark-mode a{
+    color: chartreuse;
+}
+
+body.dark-mode button{
+    color: chartreuse;
+}
+
+
+body.dark-mode footer{
+    color: chartreuse;
+}
